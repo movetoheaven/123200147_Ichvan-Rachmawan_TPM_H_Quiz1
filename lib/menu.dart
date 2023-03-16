@@ -81,11 +81,11 @@ class _MenuPageState extends State<MenuPage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.arrow_drop_up, color: Color(0xffff9a00)),
-            label: 'Segitiga',
+            label: 'Triangle',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.diamond, color: Color(0xffff9a00)),
-            label: 'Layang-Layang',
+            label: 'Kite',
           ),
         ],
       ),
